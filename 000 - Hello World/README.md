@@ -16,7 +16,10 @@ All C++ Programs have a "main" function which is the starting point for the prog
 
 The hashtag "#" is used to delineate a compiler directive. In this program, the "#include" directive instructs the compiler to read the file "iostream" before compiling the code in this file.
 
-*_NOTE:_ compile using c++, not gcc*
+*_NOTE:_ compile using c++, not gcc
+
+      $ c++ hello_world.cpp -o hello_world
+
 
 
 
