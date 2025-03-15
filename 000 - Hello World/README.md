@@ -20,7 +20,7 @@ The hashtag "#" is used to delineate a compiler directive. In this program, the 
 
       $ c++ hello_world.cpp -o hello_world
 
-
+The above statement is read as; use *"c++"* to compile the source file *"hello_world.cpp"* and create the output *"hello_world"*.   
 
 
 
