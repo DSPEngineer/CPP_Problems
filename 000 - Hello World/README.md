@@ -16,6 +16,8 @@ All C++ Programs have a "main" function which is the starting point for the prog
 
 The hashtag "#" is used to delineate a compiler directive. In this program, the "#include" directive instructs the compiler to read the file "iostream" before compiling the code in this file.
 
+The C++ Standard Library provides  a variety of functions to the language. In particular, "cout" is used to write to the console. For this program we use the __insertion operator "<<"__ to "insert" a string to the outout stream.
+
 *_NOTE:_ compile using g++, not gcc.*
 
       $ c++ hello_world.cpp -o hello_world
