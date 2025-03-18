@@ -1,4 +1,12 @@
-{
+{    "C_Cpp.default.compilerPath": "",
+"C_Cpp.default.includePath": [
+        "/usr/include",
+        "/usr/local/include",
+        "${default}",
+        "${workspaceRoot}/include",
+        "${workspaceFolder}",
+    ],
+
     "files.associations": {
         "*.tcc": "cpp",
         "iostream": "cpp",
